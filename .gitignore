@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.swp
+node_modules/
+.vscode/
+.idea/
+
+# Retired pages. Kept on disk, deliberately out of the repo.
+# Off-ICP since the Sept 2026 positioning change, not linked from anywhere.
+home-services.html
+insurance.html
+
+# The copy brief lives in docs/. This is the old root-level copy.
+/copy-brief.md
